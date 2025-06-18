@@ -1,0 +1,20 @@
+﻿# Ignore virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.class
+
+# VS Code settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# Optional: ignore data folder (uncomment if needed)
+# data/
